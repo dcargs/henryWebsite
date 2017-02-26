@@ -1,0 +1,151 @@
+html * {
+   font-family: 'Source Sans Pro', sans-serif;
+}
+
+.backgroundFresh{
+  background-color: #4ABDAC;
+}
+
+.backgroundVermillion {
+  background-color: #FC4A1A;
+}
+
+.backgroundSunshine {
+  background-color: #F7B733;
+}
+
+.backgroundClean {
+  background-color: #DFDCE3;
+}
+
+.backgroundDarkGrey {
+  background-color: #545454;
+}
+
+.bugTest {
+  background-color: #f44242;
+}
+
+.h1 {
+  font-size: 32px;
+}
+
+.headerImg {
+  width: 250px;
+  height: 360px;
+}
+
+.center {
+  align-content: center;
+}
+
+.greyText {
+  color: #adadad;
+}
+
+.floatLeft {
+  float: left;
+}
+
+.floatRight {
+  float: right;
+}
+
+.centerText {
+  text-align: center;
+}
+
+.fontWhite {
+  color: white;
+}
+
+.fontVermillion {
+  color: #FC4A1A;
+}
+
+.fontSunshine {
+  color: #F7B733;
+}
+
+.fontBlack {
+  color: black;
+}
+
+.fontSize32 {
+  font-size: 32pt;
+}
+
+.fontSize24 {
+  font-size: 24pt;
+}
+
+.fontSize16 {
+  font-size: 16pt;
+}
+
+.fontSize14 {
+  font-size: 14pt;
+}
+
+.handWrittenText {
+  font-family: 'Dancing Script', cursive;
+  font-size: 26pt;
+}
+
+.borderTop {
+  border-top: 1px solid black;
+  border-collapse: collapse;
+}
+
+.border {
+  border: 4px solid #545454;
+}
+
+.borderLeft {
+  border-left: 1px solid black;
+  border-collapse: collapse;
+}
+
+.borderRight {
+  border-right: 1px solid black;
+  border-collapse: collapse;
+}
+
+.borderBottom {
+  border-bottom: 1px solid black;
+  border-collapse: collapse;
+}
+
+.borderBottomDotted {
+  border-bottom: 1px dotted black;
+  border-collapse: collapse;
+}
+
+.columnThirds {
+  width: 33%;
+  float: left;
+}
+
+.paddingTop {
+  padding-top: 4%;
+}
+
+.paddingTop1 {
+  padding-top: 2%;
+}
+
+.paddingTop2 {
+  padding-top: 1%;
+}
+
+.paddingRight {
+  padding-right: 1%
+}
+
+.paddingBottom {
+  padding-bottom: 2%;
+}
+
+.alignCenter{
+  display: block;
+}
