@@ -10,7 +10,7 @@
     <title>Contact</title>
     <?php
     if($_POST['btnSubmit']) {
-        $recipient="cargilldevin@gmail.com";
+        $recipient="henryjgentle@gmail.com";
         $subject="Contact Form Received";
         $sender=$_POST["sender"];
         $senderEmail=$_POST["senderEmail"];
